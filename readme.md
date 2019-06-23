@@ -15,7 +15,7 @@ _
 
 Clone project to your environment, then dive into project folder
 
-```pip install -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 ### How to run:
 ```
